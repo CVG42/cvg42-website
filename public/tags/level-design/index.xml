@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Level Design on Cristina Vera</title>
+    <link>http://localhost:1313/tags/level-design/</link>
+    <description>Recent content in Level Design on Cristina Vera</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2025 Cristina Vera</copyright>
+    <lastBuildDate>Mon, 09 Jun 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/level-design/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Golf Meowdyssey</title>
+      <link>http://localhost:1313/highlights/golf-meowdyssey/</link>
+      <pubDate>Mon, 09 Jun 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/highlights/golf-meowdyssey/</guid>
+      <description>2D pixel art golf platformer where you have to beat the Limbo God in order to come back to life.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/highlights/golf-meowdyssey/featured.png" />
+    </item>
+    
+    <item>
+      <title>Golf Meowdyssey</title>
+      <link>http://localhost:1313/projects/golf-meowdyssey/</link>
+      <pubDate>Mon, 09 Jun 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/projects/golf-meowdyssey/</guid>
+      <description>2D pixel art golf platformer where you have to beat the Limbo God in order to come back to life.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/golf-meowdyssey/featured.png" />
+    </item>
+    
+  </channel>
+</rss>

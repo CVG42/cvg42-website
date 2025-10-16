@@ -42,8 +42,8 @@
   <link
     type="text/css"
     rel="stylesheet"
-    href="/css/main.bundle.min.089bbc46f72d883915bfddae1138bb3533bb2417d0f37294dbea34475ba881ea67ab73a86bbfe645d72e622047675a0f076cecae4061cb8e7a8dd5054967d01b.css"
-    integrity="sha512-CJu8RvctiDkVv92uETi7NTO7JBfQ83KU2&#43;o0R1uogepnq3Ooa7/mRdcuYiBHZ1oPB2zsrkBhy456jdUFSWfQGw==">
+    href="/css/main.bundle.min.6109d45bec999e6b18660f47756c8a97af975e5b02fb814b02fe5136113086b16d300bfd97607a6221e33b6d5c4c490b28b1f93c09b6220bc96eccaad799deed.css"
+    integrity="sha512-YQnUW&#43;yZnmsYZg9HdWyKl6&#43;XXlsC&#43;4FLAv5RNhEwhrFtMAv9l2B6YiHjO21cTEkLKLH5PAm2IgvJbsyq15ne7Q==">
 
   
   
@@ -226,7 +226,7 @@
 <div class="fixed inset-x-0 pl-[24px] pr-[24px] z-100">
   <div
     id="menu-blur"
-    class="absolute opacity-0 inset-x-0 top-0 h-full single_hero_background nozoom backdrop-blur-2xl shadow-2xl"></div>
+    class="absolute opacity-0 inset-x-0 top-0 h-full single_hero_background nozoom bg-neutral dark:bg-neutral-800"></div>
   <div class="relative max-w-[64rem] ml-auto mr-auto">
     
 
@@ -261,11 +261,11 @@
       
         
   <a
-  href=""
+  href="/projects/"
   
   class="flex items-center hover:text-primary-600 dark:hover:text-primary-400">
   
-  <p class="text-base font-medium" title="">
+  <p class="text-base font-medium" title="Projects">
     Projects
   </p>
 </a>
@@ -275,25 +275,11 @@
       
         
   <a
-  href="/blog/"
+  href="/about/"
   
   class="flex items-center hover:text-primary-600 dark:hover:text-primary-400">
   
-  <p class="text-base font-medium" title="Blogs">
-    Blog
-  </p>
-</a>
-
-
-
-      
-        
-  <a
-  href=""
-  
-  class="flex items-center hover:text-primary-600 dark:hover:text-primary-400">
-  
-  <p class="text-base font-medium" title="">
+  <p class="text-base font-medium" title="About">
     About
   </p>
 </a>
@@ -420,11 +406,11 @@
               
   <li class="mt-1">
   <a
-    href=""
+    href="/projects/"
     
     class="flex items-center hover:text-primary-600 dark:hover:text-primary-400">
     
-    <p class="text-bg font-bg" title="">
+    <p class="text-bg font-bg" title="Projects">
       Projects
     </p>
   </a>
@@ -436,27 +422,11 @@
               
   <li class="mt-1">
   <a
-    href="/blog/"
+    href="/about/"
     
     class="flex items-center hover:text-primary-600 dark:hover:text-primary-400">
     
-    <p class="text-bg font-bg" title="Blogs">
-      Blog
-    </p>
-  </a>
-</li>
-
-
-
-            
-              
-  <li class="mt-1">
-  <a
-    href=""
-    
-    class="flex items-center hover:text-primary-600 dark:hover:text-primary-400">
-    
-    <p class="text-bg font-bg" title="">
+    <p class="text-bg font-bg" title="About">
       About
     </p>
   </a>
@@ -500,6 +470,16 @@
 
 
 
+
+  <script>
+    (function () {
+      var $mainmenu = $(".main-menu");
+      var path = window.location.pathname;
+      $mainmenu.find('a[href="' + path + '"]').each(function (i, e) {
+        $(e).children("p").addClass("active");
+      });
+    })();
+  </script>
 
 
   </div>
@@ -556,6 +536,142 @@
   
 
     <section class="flex flex-wrap max-w-prose -mx-2 overflow-hidden">
+      
+        <article class="w-full px-2 my-3 overflow-hidden sm:w-1/2 md:w-1/3 lg:w-1/4 xl:w-1/4">
+  <h2 class="flex items-center">
+    <a
+      class="text-xl font-medium decoration-primary-500 hover:underline hover:underline-offset-2"
+      href="/tags/android/"
+      >Android</a
+    >
+    
+      <span class="px-2 text-base text-primary-500">&middot;</span>
+      <span class="text-base text-neutral-400">
+        3
+      </span>
+    
+  </h2>
+</article>
+
+      
+        <article class="w-full px-2 my-3 overflow-hidden sm:w-1/2 md:w-1/3 lg:w-1/4 xl:w-1/4">
+  <h2 class="flex items-center">
+    <a
+      class="text-xl font-medium decoration-primary-500 hover:underline hover:underline-offset-2"
+      href="/tags/board-game/"
+      >Board Game</a
+    >
+    
+      <span class="px-2 text-base text-primary-500">&middot;</span>
+      <span class="text-base text-neutral-400">
+        1
+      </span>
+    
+  </h2>
+</article>
+
+      
+        <article class="w-full px-2 my-3 overflow-hidden sm:w-1/2 md:w-1/3 lg:w-1/4 xl:w-1/4">
+  <h2 class="flex items-center">
+    <a
+      class="text-xl font-medium decoration-primary-500 hover:underline hover:underline-offset-2"
+      href="/tags/game-design/"
+      >Game Design</a
+    >
+    
+      <span class="px-2 text-base text-primary-500">&middot;</span>
+      <span class="text-base text-neutral-400">
+        5
+      </span>
+    
+  </h2>
+</article>
+
+      
+        <article class="w-full px-2 my-3 overflow-hidden sm:w-1/2 md:w-1/3 lg:w-1/4 xl:w-1/4">
+  <h2 class="flex items-center">
+    <a
+      class="text-xl font-medium decoration-primary-500 hover:underline hover:underline-offset-2"
+      href="/tags/kickstarter/"
+      >Kickstarter</a
+    >
+    
+      <span class="px-2 text-base text-primary-500">&middot;</span>
+      <span class="text-base text-neutral-400">
+        1
+      </span>
+    
+  </h2>
+</article>
+
+      
+        <article class="w-full px-2 my-3 overflow-hidden sm:w-1/2 md:w-1/3 lg:w-1/4 xl:w-1/4">
+  <h2 class="flex items-center">
+    <a
+      class="text-xl font-medium decoration-primary-500 hover:underline hover:underline-offset-2"
+      href="/tags/level-design/"
+      >Level Design</a
+    >
+    
+      <span class="px-2 text-base text-primary-500">&middot;</span>
+      <span class="text-base text-neutral-400">
+        2
+      </span>
+    
+  </h2>
+</article>
+
+      
+        <article class="w-full px-2 my-3 overflow-hidden sm:w-1/2 md:w-1/3 lg:w-1/4 xl:w-1/4">
+  <h2 class="flex items-center">
+    <a
+      class="text-xl font-medium decoration-primary-500 hover:underline hover:underline-offset-2"
+      href="/tags/programming/"
+      >Programming</a
+    >
+    
+      <span class="px-2 text-base text-primary-500">&middot;</span>
+      <span class="text-base text-neutral-400">
+        7
+      </span>
+    
+  </h2>
+</article>
+
+      
+        <article class="w-full px-2 my-3 overflow-hidden sm:w-1/2 md:w-1/3 lg:w-1/4 xl:w-1/4">
+  <h2 class="flex items-center">
+    <a
+      class="text-xl font-medium decoration-primary-500 hover:underline hover:underline-offset-2"
+      href="/tags/ue5/"
+      >UE5</a
+    >
+    
+      <span class="px-2 text-base text-primary-500">&middot;</span>
+      <span class="text-base text-neutral-400">
+        1
+      </span>
+    
+  </h2>
+</article>
+
+      
+        <article class="w-full px-2 my-3 overflow-hidden sm:w-1/2 md:w-1/3 lg:w-1/4 xl:w-1/4">
+  <h2 class="flex items-center">
+    <a
+      class="text-xl font-medium decoration-primary-500 hover:underline hover:underline-offset-2"
+      href="/tags/unity/"
+      >Unity</a
+    >
+    
+      <span class="px-2 text-base text-primary-500">&middot;</span>
+      <span class="text-base text-neutral-400">
+        6
+      </span>
+    
+  </h2>
+</article>
+
       
     </section>
   

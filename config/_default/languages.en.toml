@@ -8,7 +8,7 @@ title = "Cristina Vera"
   displayName = "EN"
   isoCode = "en"
   rtl = false
-  dateFormat = "2 January 2006"
+  dateFormat = "January 2006"
   # logo = "img/logo.png"
   # secondaryLogo = "img/secondary-logo.png"
   # description = "My awesome website"
@@ -16,9 +16,10 @@ title = "Cristina Vera"
 
 [params.author]
 name = "Cristina Vera"
-#   image = "img/blowfish_logo.png"
+image = "img/icon.png"
 #   imageQuality = 96
-headline = "I'm a game developer who wants to make meaningful experiences with a passion for crafting gameplay that feels great."
+headline = "Game developer who wants to make meaningful experiences with a passion for crafting gameplay that feels great."
+subtitle = "I want to make meaningful experiences with a passion for crafting gameplay that feels great."
 bio = ""
 links = [
   { github = "https://github.com/cvg42" },

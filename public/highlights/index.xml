@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Highlights on Cristina Vera</title>
+    <link>http://localhost:1313/highlights/</link>
+    <description>Recent content in Highlights on Cristina Vera</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2025 Cristina Vera</copyright>
+    <lastBuildDate>Mon, 09 Jun 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/highlights/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Golf Meowdyssey</title>
+      <link>http://localhost:1313/highlights/golf-meowdyssey/</link>
+      <pubDate>Mon, 09 Jun 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/highlights/golf-meowdyssey/</guid>
+      <description>2D pixel art golf platformer where you have to beat the Limbo God in order to come back to life.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/highlights/golf-meowdyssey/featured.png" />
+    </item>
+    
+    <item>
+      <title>Sailor</title>
+      <link>http://localhost:1313/highlights/sailor/</link>
+      <pubDate>Sat, 09 Nov 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/highlights/sailor/</guid>
+      <description>You have lost your original body and now you must recover it by collecting all the roses. Puzzle-focused game inspired by Monument Valley.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/highlights/sailor/featured.png" />
+    </item>
+    
+    <item>
+      <title>Rollin&#39; in the 90&#39;s</title>
+      <link>http://localhost:1313/highlights/rolling-in-the-90s/</link>
+      <pubDate>Wed, 09 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/highlights/rolling-in-the-90s/</guid>
+      <description>Math puzzle game with a retrowave style, where the player has to roll a dice in order to get the score down to zero.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/highlights/rolling-in-the-90s/featured.png" />
+    </item>
+    
+  </channel>
+</rss>
