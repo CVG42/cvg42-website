@@ -11,16 +11,6 @@
     
     <item>
       <title>Golf Meowdyssey</title>
-      <link>http://localhost:1313/highlights/golf-meowdyssey/</link>
-      <pubDate>Mon, 09 Jun 2025 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/highlights/golf-meowdyssey/</guid>
-      <description>2D pixel art golf platformer where you have to beat the Limbo God in order to come back to life.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/highlights/golf-meowdyssey/featured.png" />
-    </item>
-    
-    <item>
-      <title>Golf Meowdyssey</title>
       <link>http://localhost:1313/projects/golf-meowdyssey/</link>
       <pubDate>Mon, 09 Jun 2025 00:00:00 +0000</pubDate>
       

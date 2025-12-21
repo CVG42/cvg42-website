@@ -11,16 +11,6 @@
     
     <item>
       <title>Sailor</title>
-      <link>http://localhost:1313/highlights/sailor/</link>
-      <pubDate>Sat, 09 Nov 2024 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/highlights/sailor/</guid>
-      <description>You have lost your original body and now you must recover it by collecting all the roses. Puzzle-focused game inspired by Monument Valley.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/highlights/sailor/featured.png" />
-    </item>
-    
-    <item>
-      <title>Sailor</title>
       <link>http://localhost:1313/projects/sailor/</link>
       <pubDate>Sat, 09 Nov 2024 00:00:00 +0000</pubDate>
       
