@@ -7,7 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2026 Cristina Vera</copyright>
-    <lastBuildDate>Fri, 05 Dec 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/unity/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 01 Feb 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/unity/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Eclipse: The Mask of the Sun</title>
+      <link>http://localhost:1313/projects/eclipse/</link>
+      <pubDate>Sun, 01 Feb 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/projects/eclipse/</guid>
+      <description>2.5D puzzle game where you have to change masks to control the direction platforms and avoid hazards along the way.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/eclipse/featured.png" />
+    </item>
     
     <item>
       <title>You&#39;re a Virus</title>
